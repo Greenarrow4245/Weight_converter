@@ -1,13 +1,13 @@
 # weight_converter
 weight converter
 
-basically it conveets from gram to kg to pound the conversions are endlesss
+basically it converts from gram to kg to pound the conversions are endlesss
 
 supported weight units:
 
-			            kilogram
+		        kilogram
                         gram
                         pound
                         ton   
 
-few units but ypu get idea
+few units but you get idea
